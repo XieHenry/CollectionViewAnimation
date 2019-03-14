@@ -1,0 +1,2 @@
+# CollectionViewAnimation
+UICollectionView加载cell动画。
